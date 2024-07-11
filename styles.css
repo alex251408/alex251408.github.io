@@ -1,0 +1,43 @@
+body {
+    font-family: 'Palmer', sans-serif;
+    background-color: #f8f9fa;
+}
+
+header .navbar {
+    margin-bottom: none;
+}
+
+#logo {
+    height: 100px;
+}
+
+.carousel-item img {
+    max-height: 500px;
+    object-fit: cover;
+}
+
+.product img {
+    max-height: 200px;
+    object-fit: cover;
+}
+
+.product h5 {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.product p {
+    font-size: 1rem;
+    color: #888;
+}
+
+.product button {
+    background-color: #007bff;
+    color: white;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 10px 0;
+}
